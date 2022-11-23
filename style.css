@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: purple;
+}
+
+.text {
+  max-width: 580px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+li.a {
+  color:pink;
+  text-decoration: underline;
+}
+
+li.b {
+  text-decoration: underline;
+}
